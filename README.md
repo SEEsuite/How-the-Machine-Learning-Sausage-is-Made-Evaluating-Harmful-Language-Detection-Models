@@ -23,7 +23,6 @@ Each model was evaluated using standard metrics including:
 - Recall
 - F1 Score
 - Accuracy
-- ROC-AUC
 
 Detailed evaluation metrics and analysis can be found in the respective notebook files within each model's directory.
 
