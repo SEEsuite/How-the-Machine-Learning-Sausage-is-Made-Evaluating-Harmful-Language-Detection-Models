@@ -1,0 +1,9 @@
+bearer = "AAAAAAAAAAAAAAAAAAAAAByzPAEAAAAA14U22jen7v3nFLpEEmoIW9tM99U%3DfQoB94f6qVq9bYTBZkWWuUHNahSjQZtmeoQYjMvmHe1WYuCTL7"
+
+Access Token = "4754316685-J9QmYGXJmOSVTEb7aedqRjwjeFyokXAmWyFqHjo"
+
+Access Token Secret = "fhklj3ftsXGy1MutTGqbutXsVqr3fDaA82Lj4ttZrOJQD"
+
+Consumer Key = "W7G2sITfGztUIRrBYImFgXUiL"
+
+Consumer Secret = "sPf2YDcB2km6INz8DAoRZaGFzOF4Wqvj5oEkAJyjzTTEwlj5TR"
