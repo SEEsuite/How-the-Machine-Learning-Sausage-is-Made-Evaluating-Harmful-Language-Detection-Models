@@ -1,0 +1,33 @@
+# Data files
+**/*.csv
+**/*.json
+**/*.npy
+
+# Model files
+**/*.pth
+**/*.h5
+**/*.hdf5
+**/*.pkl
+**/*.model
+**/*.keras
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
